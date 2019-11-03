@@ -119,7 +119,7 @@ h2 span:hover {
 
 h3 {
     font-size: 1.5em;
-    font-family: "Arial Narrow";
+    font-family: "Arial Narrow, Arial, sans-serif";
     font-style: italic;
     text-shadow: 0 0 1px gray;
     padding: 3em 0 0 0;
@@ -144,7 +144,7 @@ header {
 }
 
 p {
-    font-family: "Arial Narrow";
+    font-family: "Arial Narrow, Arial, sans-serif";
     line-height: 1.6em;
     text-align: justify;
 }
