@@ -161,3 +161,7 @@ th, td {
     background-size: cover;
     background-position: center;
 }
+
+html {
+    scroll-behavior: smooth;
+}
